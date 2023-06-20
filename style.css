@@ -1,0 +1,26 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	justify-content: center;
+	align-content: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+/*
+p{
+	margin-left: 40%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 60px;
+	height: 60px;
+	/*margin-top: 25%;
+}
+*/
+
+#content{
+	display: block;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: white;
+}
